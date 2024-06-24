@@ -1,3 +1,5 @@
+-* This file will only work 10.0 and higher
+
 TABLE FILE GGSALES
 SUM DOLLARS
 BY DOLLARS BIN_NUMBER 5
